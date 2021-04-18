@@ -282,6 +282,14 @@ header {
   display: block;
 }
 
+/* MOBILE NAV */
+
+.mobile-nav-icon {
+  float: right;
+  margin-top: 30px;
+  cursor: pointer;
+}
+
 /* -------------- */
 /* FEATURES */
 /* ---------------*/
@@ -624,7 +632,7 @@ footer p {
 
 .js--wp-4 {
   -webkit-animation-duration: 1s;
-          animation-duration: 1s;
+  animation-duration: 1s;
 }
 
 .js--wp-1.animated,
