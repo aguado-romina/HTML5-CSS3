@@ -8,4 +8,4 @@ https://aguado-romina.github.io/Omnifood/
 
 ## Lighthouse
 
-![img] (../resources/img/Lighthouse.png)
+![img](resources/img/Lighthouse.png)
